@@ -61,7 +61,10 @@
 	}
 	&:hover {
 		.btn-text {
+			color: #ffffff !important;
 			span {
+				color: #ffffff !important;
+				text-shadow: 0 30px 0 #ffffff !important;
 				transform: translateY(-30px);
 			}
 		}
